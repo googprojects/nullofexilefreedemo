@@ -1,6 +1,6 @@
 # nullofexile free demo
 
-a free demo for nullofexile — modify your path of exile experience with ease.
+a free demo for nullofexile — modify your path of exile 2 experience with ease.
 
 ---
 
