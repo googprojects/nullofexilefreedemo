@@ -13,3 +13,4 @@ a free demo for nullofexile — modify your path of exile 2 experience with ease
 5. the app will automatically modify the contents of the `shaders` folder.
 6. once the log in the app shows **"done!"**, compress the modified `shaders` folder into a `.zip` file.
 7. open **visualggpk3**, click **patch**, and select the `.zip` file you created.
+**done! now you have reveal map function for free!**
